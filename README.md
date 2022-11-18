@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajneesh Kumar Soni</h1>
+<h1 align="center">Hi 👋, I'm Rajneesh  Soni</h1>
 <h3 align="center">Studying at BBD Engineering College</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshsoni13&label=Profile%20views&color=0e75b6&style=flat" alt="rajneeshsoni13" /> </p>
